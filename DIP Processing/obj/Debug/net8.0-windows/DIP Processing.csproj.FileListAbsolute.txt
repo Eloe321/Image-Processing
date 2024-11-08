@@ -1,0 +1,24 @@
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\DIP Processing.exe
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\DIP Processing.deps.json
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\DIP Processing.runtimeconfig.json
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\DIP Processing.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\DIP Processing.pdb
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\OpenCvSharp.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.csproj.AssemblyReference.cache
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP_Processing.Form1.resources
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.csproj.GenerateResource.cache
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.AssemblyInfoInputs.cache
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.AssemblyInfo.cs
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.csproj.CoreCompileInputs.cache
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.sourcelink.json
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Proc.398B61AC.Up2Date
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\refint\DIP Processing.dll
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.pdb
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\DIP Processing.genruntimeconfig.cache
+C:\Users\Zak\source\repos\Binangbang-Image_Processing\DIP Processing\obj\Debug\net8.0-windows\ref\DIP Processing.dll

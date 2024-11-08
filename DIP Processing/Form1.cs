@@ -417,7 +417,6 @@ namespace DIP_Processing
 
             pictureBox3.Image = imageWithBackground;
             subtractImage = imageWithBackground;
-
         }
 
         private void openCamera_Click(object sender, EventArgs e)
@@ -484,9 +483,8 @@ namespace DIP_Processing
             }
         }
 
-        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        private void saveImageWithBackgroundToolStripMenuItem_Click(object sender, EventArgs e)
         {
-          
             Bitmap bitmap = (Bitmap)subtractImage.Clone();
             using (SaveFileDialog saveFileDialog = new SaveFileDialog())
             {
